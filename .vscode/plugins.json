@@ -1,0 +1,1 @@
+{"plugins":["cordova-plugin-whitelist","cordova-plugin-inappbrowser","cordova-plugin-x-socialsharing","es6-promise-plugin","cordova-plugin-geolocation","card.io.cordova.mobilesdk","cordova-plugin-appavailability"]}
